@@ -1,1 +1,2 @@
-# YSDA_ML
+# ML course projects
+
